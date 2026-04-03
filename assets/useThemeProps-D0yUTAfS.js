@@ -1,0 +1,1 @@
+import{A as e,F as t,k as n}from"./Button-BOAqjw7i.js";var r=e();function i(e){let{theme:t,name:r,props:i}=e;return!t||!t.components||!t.components[r]||!t.components[r].defaultProps?i:n(t.components[r].defaultProps,i)}function a({props:e,name:n,defaultTheme:r,themeId:a}){let o=t(r);return a&&(o=o[a]||o),i({theme:o,name:n,props:e})}export{i as n,r,a as t};
