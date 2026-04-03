@@ -6,18 +6,18 @@ QuickCart is a lightweight e-commerce web application built using React. It simu
 
 ## 🚀 Features
 
-* 🛍️ Browse products
-* 📄 View product details
-* 🛒 Add/remove items from cart
-* 🔢 Manage product quantities
-* 🔐 User authentication (Login/Logout)
-* 🔒 Protected routes (e.g., Checkout)
-* 💳 Checkout simulation
-* 📦 Order summary
-* 🔍 Search & filtering
-* 📄 Pagination
-* ⚡ Optimized performance
-* 📱 Fully responsive UI
+- 🛍️ Browse products
+- 📄 View product details
+- 🛒 Add/remove items from cart
+- 🔢 Manage product quantities
+- 🔐 User authentication (Login/Logout)
+- 🔒 Protected routes (e.g., Checkout)
+- 💳 Checkout simulation
+- 📦 Order summary
+- 🔍 Search & filtering
+- 📄 Pagination
+- ⚡ Optimized performance
+- 📱 Fully responsive UI
 
 ---
 
@@ -25,35 +25,35 @@ QuickCart is a lightweight e-commerce web application built using React. It simu
 
 ### Frontend
 
-* React 18
-* React Router v6
-* Redux Toolkit
-* Redux Thunk
-* Material UI
-* Axios
-* React Hook Form
-* Yup Validation
+- React 18
+- React Router v6
+- Redux Toolkit
+- Redux Thunk
+- Material UI
+- Axios
+- React Hook Form
+- Yup Validation
 
 ### Advanced Concepts Used
 
-* Context API
-* Custom Hooks (`useAuth`, `useCart`, `useProducts`)
-* Lazy Loading & Code Splitting
-* Error Boundaries
-* Memoization (`React.memo`, `useMemo`, `useCallback`)
-* Performance Optimization
+- Context API
+- Custom Hooks (`useAuth`, `useCart`, `useProducts`)
+- Lazy Loading & Code Splitting
+- Error Boundaries
+- Memoization (`React.memo`, `useMemo`, `useCallback`)
+- Performance Optimization
 
 ---
 
 ## 🌐 APIs Used
 
-* Fake Store API
+- Fake Store API
   https://fakestoreapi.com/
 
-* DummyJSON API (for search & pagination)
+- DummyJSON API (for search & pagination)
   https://dummyjson.com/
 
-* Random User API (for mock authentication)
+- Random User API (for mock authentication)
   https://randomuser.me/
 
 ---
@@ -78,27 +78,27 @@ src/
 
 ### 🛍️ Product Module
 
-* Product listing with category filter
-* Search functionality with debouncing
-* Pagination implementation
+- Product listing with category filter
+- Search functionality with debouncing
+- Pagination implementation
 
 ### 🛒 Cart System
 
-* Add/remove items
-* Quantity control
-* Total price calculation
+- Add/remove items
+- Quantity control
+- Total price calculation
 
 ### 🔐 Authentication
 
-* Login using API
-* Token handling
-* Protected routes
+- Login using API
+- Token handling
+- Protected routes
 
 ### 💳 Checkout
 
-* Order summary
-* Address form
-* Mock payment flow
+- Order summary
+- Address form
+- Mock payment flow
 
 ---
 
@@ -132,30 +132,30 @@ npm run dev
 
 ## 📈 Performance Optimizations
 
-* Lazy loading using `React.lazy` & `Suspense`
-* Memoization using `useMemo`, `useCallback`, `React.memo`
-* Efficient state management with Redux Toolkit
-* API abstraction layer
+- Lazy loading using `React.lazy` & `Suspense`
+- Memoization using `useMemo`, `useCallback`, `React.memo`
+- Efficient state management with Redux Toolkit
+- API abstraction layer
 
 ---
 
 ## 🎯 Learning Outcomes
 
-* Built scalable React architecture
-* Implemented real-world e-commerce features
-* Hands-on experience with Redux Toolkit
-* Improved performance optimization techniques
-* Worked with API integration & authentication flows
+- Built scalable React architecture
+- Implemented real-world e-commerce features
+- Hands-on experience with Redux Toolkit
+- Improved performance optimization techniques
+- Worked with API integration & authentication flows
 
 ---
 
 ## 📌 Future Improvements
 
-* Add unit testing
-* Improve UI/UX
-* Add real payment gateway
-* Backend integration
-* Logs for tracking (sentry)
+- Add unit testing
+- Improve UI/UX
+- Add real payment gateway
+- Backend integration
+- Logs for tracking (sentry)
 
 ---
 
